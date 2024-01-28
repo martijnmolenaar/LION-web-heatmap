@@ -2,6 +2,8 @@
 
 App available online via [lipidontology.com](http://heatmap.lipidontology.com)
 
+<img src="https://raw.githubusercontent.com/martijnmolenaar/LION-web-heatmap/main/HeatmapApp/www/LIONicon%20heatmap.png" alt="LION logo">
+
 
 Please [cite](https://academic.oup.com/gigascience/article/8/6/giz061/5505544):
 > **LION/web: a web-based ontology enrichment tool for lipidomic data analysis.**
